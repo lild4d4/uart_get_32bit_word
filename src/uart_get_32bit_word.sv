@@ -56,7 +56,7 @@ module uart_get_32bit_word(
     
     word_32bit_uart_tx instruction_query(div_clk,~reset,PB_pressed_pulse,addr_a,tx);
     
-    word_32_bit_uart_rx get_instruction(div_clk,rx,~reset,Instr);               
+    word_32_bit_uart_rx get_instruction(div_clk,~reset,rx,Instr);               
     
     //Display ------------------------------------------------------------------------------------------------------------------
     
