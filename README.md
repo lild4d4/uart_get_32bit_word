@@ -6,3 +6,5 @@
 ![div_clk-tx-rx](https://user-images.githubusercontent.com/64666124/151864194-effec6cd-b6f5-4af7-83d8-b658d15efb93.png)
 
 ![debug](https://user-images.githubusercontent.com/64666124/151864466-40568c4c-2c4f-4a19-85e6-d0973f631ef7.png)
+
+![rx_debug](https://user-images.githubusercontent.com/64666124/151864677-709fdf7c-b617-48c7-936c-f377f0df9515.png)
