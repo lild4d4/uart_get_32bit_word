@@ -3,6 +3,8 @@
 
 ![esquemacompleto](https://user-images.githubusercontent.com/64666124/152071730-a633daac-6077-4d95-9438-82c9611e722a.png)
 
+![UART_interface_esquema](https://user-images.githubusercontent.com/64666124/152072075-ed78cb05-c1e7-493e-8655-fe9db06075ed.png)
+
 ![clk-div_clk](https://user-images.githubusercontent.com/64666124/151864351-580eeece-ec95-4e8b-9a3c-a9e562a124a2.png)
 
 ![div_clk-tx-rx](https://user-images.githubusercontent.com/64666124/151864194-effec6cd-b6f5-4af7-83d8-b658d15efb93.png)
