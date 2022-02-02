@@ -54,9 +54,7 @@ module uart_get_32bit_word(
     assign addr_a[15:0] = addr;
     logic [31:0] Instr;
     
-    word_32bit_uart_tx instruction_query(div_clk,~reset,PB_pressed_pulse,addr_a,tx);
-    
-    word_32_bit_uart_rx get_instruction(div_clk,~reset,rx,Instr);               
+    UART_interface inter(clk,~reset,PB_pressed_pulse,addr_a,rx,tx,Instr);         
     
     //Display ------------------------------------------------------------------------------------------------------------------
     
