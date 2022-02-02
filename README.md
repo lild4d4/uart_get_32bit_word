@@ -3,7 +3,7 @@
 
 ![esquemacompleto](https://user-images.githubusercontent.com/64666124/152071730-a633daac-6077-4d95-9438-82c9611e722a.png)
 
-![UART_interface_esquema](https://user-images.githubusercontent.com/64666124/152072129-3baf6d16-1135-4f48-bbf3-a60e6b486fcf.png)
+![UART_interface_esquema](https://user-images.githubusercontent.com/64666124/152072172-39609421-41b9-4a6b-99ff-68f09df7455d.png)
 
 ![clk-div_clk](https://user-images.githubusercontent.com/64666124/151864351-580eeece-ec95-4e8b-9a3c-a9e562a124a2.png)
 
