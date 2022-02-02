@@ -1,6 +1,8 @@
 # uart_get_32bit_word
  Get a 32 bit word for a determined 32 bit adress
- 
+
+![esquemacompleto](https://user-images.githubusercontent.com/64666124/152071730-a633daac-6077-4d95-9438-82c9611e722a.png)
+
 ![clk-div_clk](https://user-images.githubusercontent.com/64666124/151864351-580eeece-ec95-4e8b-9a3c-a9e562a124a2.png)
 
 ![div_clk-tx-rx](https://user-images.githubusercontent.com/64666124/151864194-effec6cd-b6f5-4af7-83d8-b658d15efb93.png)
